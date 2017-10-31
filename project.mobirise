@@ -3,7 +3,7 @@
     "name": "mgclabs",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "4.4.0",
     "theme": {
       "name": "mobirise4",
@@ -31,7 +31,7 @@
         "isScrollToTopButton": false
       }
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-16x16.png",
     "noImageResize": ""
   },
   "pages": {
